@@ -12,6 +12,6 @@ Finish move : c <br>
 Shield : x <br><br>
 
 Init finish move : 1 <br>
-Init shield : 1 <br>
+Init shield : 1 <br><br>
 
-
+Development Environment : Windows10 , Eclipse
