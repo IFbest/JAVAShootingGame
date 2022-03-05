@@ -7,11 +7,11 @@ UP : ↑ <br>
 DOWN : ↓ <br>
 LEFT : ← <br>
 RIGHT : → <br>
-Shot : space
-Finish move : c
-Shield : x
+Shot : space <br>
+Finish move : c <br>
+Shield : x <br><br>
 
-Init finish move : 1
-Init shield : 1
+Init finish move : 1 <br>
+Init shield : 1 <br>
 
 
